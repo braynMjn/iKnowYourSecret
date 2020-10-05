@@ -9,6 +9,6 @@
 4. Submit to see the result.
 
 Screenshot:
-![Screenshot](/Screenshot.jpg?raw=true "This is the screenshot of the page.")
+![Screenshot](Screenshot.jpeg)
 
 Link/URL: https://braynmjn.github.io/iKnowYourSecret/
