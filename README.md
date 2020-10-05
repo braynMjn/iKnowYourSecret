@@ -8,5 +8,7 @@
 3. Enter/Select color of the dress you are wearing currently.
 4. Submit to see the result.
 
-
+Screenshot:
 ![Screenshot](/Screenshot.jpg?raw=true "This is the screenshot of the page.")
+
+Link/URL: https://braynmjn.github.io/iKnowYourSecret/
