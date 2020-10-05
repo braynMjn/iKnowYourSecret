@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>I Know Your Secret</title>
+</head>
+
+<body>
+    <div>
+        <h1>I Know Your Secret</h1>
+        <h2 id="result"></h2>
+        <table>
+            <tr>
+                <td>
+                    <h3>Tell me your birthday Month?</h3>
+                </td>
+            <tr>
+                <td>
+                    <select id="month" name="month">
+                        <option value="1">January</option>
+                        <option value="2">February</option>
+                        <option value="3">March</option>
+                        <option value="4">April</option>
+                        <option value="5">May</option>
+                        <option value="6">June</option>
+                        <option value="7">July</option>
+                        <option value="8">August</option>
+                        <option value="9">September</option>
+                        <option value="10">October</option>
+                        <option value="11">November</option>
+                        <option value="12">December</option>
+                    </select>
+                </td>
+            </tr>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Tell me your birthday Date?</h3>
+                </td>
+            <tr>
+                <td><input type="number" id="date" required placeholder="Your Birthday Date" min="1" max="31"></td>
+            </tr>
+            </tr>
+            <tr>
+                <td>
+                    <h3>Tell me the color of your upper dress you are wearing right now and I'll tell you your weird
+                        secret?</h3>
+                </td>
+            </tr>
+            <tr>
+                <td><select id="color" name="color">
+                        <option value="1">White</option>
+                        <option value="2">Black</option>
+                        <option value="3">Pink</option>
+                        <option value="4">Red</option>
+                        <option value="5">Brown</option>
+                        <option value="6">Polka Dots</option>
+                        <option value="7">Purple</option>
+                        <option value="8">Gray</option>
+                        <option value="9">Green</option>
+                        <option value="10">Gray</option>
+                        <option value="11">Turqoise</option>
+                        <option value="12">Blue</option>
+                        <option value="13">Naked</option>
+                        <option value="14">Yellow</option>
+                        <option value="15">Tan</option>
+                        <option value="16">Other</option>
+                    </select></td>
+            </tr>
+            <tr>
+                <td><button type="submit" id="btn" onclick="getData()">Submit</button></td>
+            </tr>
+        </table>
+    </div>
+</body>
+<script src="app.js"></script>
+
+</html>
