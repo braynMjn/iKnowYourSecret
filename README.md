@@ -9,6 +9,6 @@
 4. Submit to see the result.
 
 Screenshot:
-![Screenshot](Screenshot.jpeg)
+![Screenshot](Screenshot.JPG)
 
 Link/URL: https://braynmjn.github.io/iKnowYourSecret/
