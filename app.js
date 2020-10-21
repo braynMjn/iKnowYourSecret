@@ -14,7 +14,7 @@ function getData() {
   " your best friend", "a bowl of oats"," a golfball"," a bowl of french fries"," Binod Chaudhary"," a map"," your professor",
   " the toilet"," a landmine"," Emma Watson"," Anmol KC"];
 
-  var verbs = [" because a clown stole your taco."," because you're sexy."," because you're awesome in bed"," because you're boobs are amazing.",
+  var verbs = [" because a clown stole your taco."," because you're sexy."," because you're awesome in bed"," because your boobs are amazing.",
   " because Rabi Lamichhane told you to do so."," because you have high self-esteem"," because you needed to pee."," because you love bacon.",
   " because your cat ran away."," because you licked a toad."," because you're a total pimp."," because the voices in your head said so.",
   " because you have sexy abs."," because you had too many drinks."," because you're classy.","because you've not slept in days."];
